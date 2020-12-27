@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Akhilesh-J/RoboFriends.git/static/css/main.7eca4d5c.chunk.css",
+    "main.js": "/Akhilesh-J/RoboFriends.git/static/js/main.f2d92bbd.chunk.js",
+    "main.js.map": "/Akhilesh-J/RoboFriends.git/static/js/main.f2d92bbd.chunk.js.map",
+    "runtime-main.js": "/Akhilesh-J/RoboFriends.git/static/js/runtime-main.8504d73e.js",
+    "runtime-main.js.map": "/Akhilesh-J/RoboFriends.git/static/js/runtime-main.8504d73e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Akhilesh-J/RoboFriends.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js": "/Akhilesh-J/RoboFriends.git/static/js/2.dba7a7b0.chunk.js",
+    "static/js/2.dba7a7b0.chunk.js.map": "/Akhilesh-J/RoboFriends.git/static/js/2.dba7a7b0.chunk.js.map",
+    "static/js/3.5218428c.chunk.js": "/Akhilesh-J/RoboFriends.git/static/js/3.5218428c.chunk.js",
+    "static/js/3.5218428c.chunk.js.map": "/Akhilesh-J/RoboFriends.git/static/js/3.5218428c.chunk.js.map",
+    "index.html": "/Akhilesh-J/RoboFriends.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Akhilesh-J/RoboFriends.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.7eca4d5c.chunk.css.map": "/Akhilesh-J/RoboFriends.git/static/css/main.7eca4d5c.chunk.css.map",
+    "static/js/2.dba7a7b0.chunk.js.LICENSE.txt": "/Akhilesh-J/RoboFriends.git/static/js/2.dba7a7b0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Akhilesh-J/RoboFriends.git/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8504d73e.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.dba7a7b0.chunk.js",
+    "static/css/main.7eca4d5c.chunk.css",
+    "static/js/main.f2d92bbd.chunk.js"
+  ]
+}
