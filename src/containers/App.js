@@ -3,6 +3,7 @@ import CardList from "../components/CardList";
 import SearchBox from '../components/SearchBox';
 // import {robots} from './Robots';
 import Scroll from '../components/Scroll';
+import ErrorBoundry from "../components/ErrorBoundry";
 import './App.css';
 
 function App () {
@@ -35,7 +36,9 @@ function App () {
                 {/*<button onClick={() => setCount(count + 1)}>Click Me!</button>*/}
                 <SearchBox searchChange={onSearchChange}/>
                 <Scroll>
-                    <CardList robots={filteredRobot}/>
+                    <ErrorBoundry>
+                        <CardList robots={filteredRobot}/>
+                    </ErrorBoundry>
                 </Scroll>
             </div>
         )
